@@ -1,12 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
 .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between; /* Distribute items evenly along the main axis */
-  }
-  
-  .gallery img {
-    max-width: calc(33.33% - 10px); /* Set maximum width for each image */
-    max-height: 200px; /* Set maximum height for each image */
-    margin-bottom: 10px; /* Add space between rows */
-  }
-  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.gallery img {
+  max-width: calc(33.33% - 10px);
+  max-height: 200px;
+  margin-bottom: 10px;
+}
