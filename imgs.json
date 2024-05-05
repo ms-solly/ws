@@ -1,0 +1,12 @@
+[
+    {"filename": "./imgs/img.jpg", "alt": "Image 1"},
+    {"filename": "./imgs/img2.jpg", "alt": "Image 3"},
+    {"filename": "./imgs/img3.jpg", "alt": "Image 1"},
+    {"filename": "./imgs/img4.jpg", "alt": "Image 2"},
+    {"filename": "./imgs/img5.jpg", "alt": "Image 3"},
+    {"filename": "./imgs/img6.jpg", "alt": "Image 1"},
+    {"filename": "./imgs/img7.jpg", "alt": "Image 1"},
+    {"filename": "./imgs/img8.jpeg", "alt": "Image 1"}
+
+  ]
+  
